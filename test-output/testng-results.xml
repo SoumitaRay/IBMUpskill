@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85293" started-at="2019-01-13T18:45:25Z" finished-at="2019-01-13T18:46:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85293" started-at="2019-01-13T18:45:25Z" finished-at="2019-01-13T18:46:51Z">
+      <class name="com.training.sanity.tests.MemberProfileTest">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.MemberProfileTest@55f3ddb1]" name="setUpBeforeClass" is-config="true" duration-ms="37948" started-at="2019-01-14T00:15:25Z" finished-at="2019-01-14T00:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.MemberProfileTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="1" started-at="2019-01-14T00:16:03Z" finished-at="2019-01-14T00:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="MemberData_SearchCriteria()[pri:1, instance:com.training.sanity.tests.MemberProfileTest@55f3ddb1]" name="MemberData_SearchCriteria" duration-ms="23021" started-at="2019-01-14T00:16:03Z" finished-at="2019-01-14T00:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MemberData_SearchCriteria -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.MemberProfileTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="1002" started-at="2019-01-14T00:16:26Z" finished-at="2019-01-14T00:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.MemberProfileTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="1" started-at="2019-01-14T00:16:27Z" finished-at="2019-01-14T00:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="GrantLoanToMember_Admin()[pri:4, instance:com.training.sanity.tests.MemberProfileTest@55f3ddb1]" name="GrantLoanToMember_Admin" duration-ms="22096" started-at="2019-01-14T00:16:27Z" finished-at="2019-01-14T00:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GrantLoanToMember_Admin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.MemberProfileTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="1001" started-at="2019-01-14T00:16:50Z" finished-at="2019-01-14T00:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.MemberProfileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
